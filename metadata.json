@@ -1,0 +1,7 @@
+{
+  "name": "Subject Browser - Den_enterprise",
+  "description": "A high-performance, Python-powered browser that identifies the intent and subject of your queries for superior search results.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
