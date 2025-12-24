@@ -11,7 +11,7 @@ const Navbar: React.FC = () => {
             <a href="/" className="block">
               <div className="h-10 w-32 flex items-center justify-center overflow-hidden relative group">
                 <img 
-                  src="logo1.png" 
+                  src="https://raw.githubusercontent.com/Den-enterprise/Subject/refs/heads/main/logo1.png" 
                   alt="Subject Logo" 
                   className="h-full w-auto object-contain relative z-10"
                   onError={(e) => {
@@ -30,7 +30,7 @@ const Navbar: React.FC = () => {
             <div className="flex items-center">
               <div className="h-10 w-32 flex items-center justify-start  overflow-hidden relative group">
                 <img 
-                  src="logo2.png" 
+                  src="https://raw.githubusercontent.com/Den-enterprise/Subject/refs/heads/main/logo2.png" 
                   alt="Den_enterprise Logo" 
                   className="h-full w-auto object-contain opacity-80 relative z-10"
                   onError={(e) => {
